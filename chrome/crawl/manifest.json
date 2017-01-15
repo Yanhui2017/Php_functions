@@ -1,0 +1,12 @@
+
+{  
+  "name": "阳光保险",  
+  "version": "0.9.0",  
+  "manifest_version": 2,
+  "description": "环境列表",  
+  "browser_action": {  
+    "default_icon": "icon.jpg" ,
+    "default_title": "阳光保险",
+    "default_popup": "popup.html"
+  }  
+} 
